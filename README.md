@@ -135,17 +135,7 @@ This project demonstrates:
 
 ---
 
-## 🗺️ Roadmap
 
-| Feature | Status |
-|---|---|
-| In-app chat (customer support) | 🔜 Planned |
-| Admin dashboard with analytics | 🔜 Planned |
-| Push notifications for offers & order updates | 🔜 Planned |
-| Multi-language support (i18n) | 🔜 Planned |
-| Native Apple Pay integration | 🔭 Exploring |
-
----
 
 ## 👨‍💻 Author
 
