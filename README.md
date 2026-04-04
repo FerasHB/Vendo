@@ -55,7 +55,7 @@ Designed with a mobile-first mindset, Vendo prioritizes speed, clarity, and intu
 
 <div align="center">
 
-| Home | Details | Cart | Orders | Profile |
+| Home | Search | Cart | Profile | Orders |
 |------|---------|------|--------|---------|
 | <img src="./img/sc1.png" width="160"/> | <img src="./img/sc2.png" width="160"/> | <img src="./img/sc3.png" width="160"/> | <img src="./img/sc4.png" width="160"/> | <img src="./img/sc5.png" width="160"/> |
 
